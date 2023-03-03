@@ -24,8 +24,9 @@
 }
 
 .darkMode-task-container {
-    color: #fff;
-    background-color: #444;
+    color: #0965df;
+    background-color: #0f0e17;
+    border: 1px solid #fffffe
 }
 
 .box-task {
@@ -41,7 +42,7 @@
 }
 
 .darkMode-task-title {
-    color: #ff9a00;
+    color: #fffffe;
 }
 
 .box-task-action {

@@ -9,12 +9,12 @@
 }
 
 .lightMode-add-btn {
-  background-color: #49ff58;
+  background-color: #4fc4cf;
 }
 
 .darkMode-add-btn {
   color: #fff;
-  background-color: #07a714;
+  background-color: #ff8906;
 }
 
 .add-btn:hover {
@@ -32,7 +32,7 @@
 .task-input {
   padding: 10px 20px;
   outline: none;
-  border: none;
+  border: 1px solid black;
   font-size: 16px;
   border-radius: 5px;
   width: 70%;
